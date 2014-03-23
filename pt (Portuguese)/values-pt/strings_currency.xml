@@ -11,14 +11,14 @@
     <string name="region">Região</string>
     <string name="currency_name">Nome da moeda</string>
     <string name="symbol">Símbolo</string>
-    <string name="symbol_required">Símbolo obrigatório</string>
-    <string name="exchange_rate_required">Taxa de câmbio obrigatória</string>
-    <string name="tap_to_modify_converted_amounts">Toque para alterar totais convertidos</string>
+    <string name="symbol_required">Símbolo (obrigatório)</string>
+    <string name="exchange_rate_required">Taxa de câmbio (obrigatório)</string>
+    <string name="tap_to_modify_converted_amounts">Toque para alterar os totais convertidos</string>
     <string name="currency_converter">Conversor de moedas</string>
     <string name="invert">Inverter</string>
-	<string name="save_exchange_rate">Salvar taxa de câmbio</string>
+	<string name="save_exchange_rate">Guardar taxa de câmbio</string>
     <string name="all_currencies">Todas as moedas</string>
-    <string name="used_currencies">Moedas usadas</string>
+    <string name="used_currencies">Moedas utilizadas</string>
 	<string name="and_prior_format">Anterior a ^1</string>
     
 	<string-array name="currency_list_status_filter_title_bar">
